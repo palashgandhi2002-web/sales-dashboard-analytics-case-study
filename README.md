@@ -1,5 +1,5 @@
 # sales-dashboard-analytics-case-study
-Here is a detailed README template for your GitHub repository, based on your attached workflow:
+
 
 ***
 
